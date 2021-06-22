@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안뇽안뇽 !!
 
 <!--
 **34ruby/34ruby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
