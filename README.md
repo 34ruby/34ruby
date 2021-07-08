@@ -1,4 +1,4 @@
-### 안뇽안뇽 !!
+<!-- ### 안뇽안뇽 !!
 
 <!--
 **34ruby/34ruby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,4 +36,4 @@ coding test...
 <br>
 Planning...
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=RubyonRails&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=RubyonRails&logoColor=white"/></a> -->
