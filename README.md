@@ -9,12 +9,14 @@
 <img src="https://img.shields.io/badge/PHP-777BB4??style=for-the-badge&logo=PHP&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Ruby-CC342D??style=for-the-badge&logo=Ruby&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Java-007396??style=for-the-badge&logo=Java&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Python-3776AB??style=for-the-badge&logo=Python&logoColor=ffffff"/>
 </p>
 <p align="left">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D??style=for-the-badge&logo=Vue.js&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E??style=for-the-badge&logo=NestJS&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20??style=for-the-badge&logo=Laravel&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4??style=for-the-badge&logo=Tailwind CSS&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Node.js-339933??style=for-the-badge&logo=Node.js&logoColor=ffffff"/>
 </p>
 <p align="left">
 <img src="https://img.shields.io/badge/Nuxt.js-00DC82??style=for-the-badge&logo=Nuxt.js&logoColor=ffffff"/>
