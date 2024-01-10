@@ -8,6 +8,7 @@
 <h4>My skill set is as...</h4>
 <p align="left">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E??style=for-the-badge&logo=javascript&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/python-3670A0??style=for-the-badge&logo=python&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD??style=for-the-badge&logo=jQuery&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D??style=for-the-badge&logo=Vue.js&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Node.js-339933??style=for-the-badge&logo=Node.js&logoColor=ffffff"/>
@@ -15,6 +16,7 @@
 <img src="https://img.shields.io/badge/Nuxt.js-00DC82??style=for-the-badge&logo=Nuxt.js&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Three.js-000000??style=for-the-badge&logo=three.js&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B??style=for-the-badge&logo=MongoDB&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28??style=for-the-badge&logo=Firebase&logoColor=ffffff"/>
 </p>
 <p align="left">
 <img src="https://img.shields.io/badge/Figma-F24E1E??style=for-the-badge&logo=Figma&logoColor=ffffff"/>
